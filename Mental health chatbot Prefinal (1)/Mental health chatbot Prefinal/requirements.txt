@@ -1,0 +1,14 @@
+Flask
+keras
+nltk
+numpy
+spacy
+spacy-langdetect
+spacy-legacy
+spacy-loggers
+transformers
+sentencepiece
+sacremoses
+torch
+torchvision
+torchaudio
